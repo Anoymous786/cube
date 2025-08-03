@@ -54,10 +54,10 @@ It provides a GUI-based 3×3 cube simulator that can **Scramble**, **Solve**, an
 
 SAMPLE OUTPUT:
 
-<img width="14" height="87" alt="state 1" src="https://github.com/user-attachments/assets/dd6761fe-0d5d-444b-aa0a-fa21952d506b" />
-<img width="1224" height="820" alt="Scrambled-State" src="https://github.com/user-attachments/assets/7d1f7f61-4076-47e9-8b87-e621292ee29e" />
-<img width="1257" height="877" alt="Solved-State" src="https://github.com/user-attachments/assets/a90f180f-63e1-4149-b7fe-badeead648cd" />
-<img width="557" height="466" alt="Terminal" src="https://github.com/user-attachments/assets/43e80a38-f55e-44c5-b7b4-5698caf0748e" />
+<img width="500" height="500" alt="state 1" src="https://github.com/user-attachments/assets/dd6761fe-0d5d-444b-aa0a-fa21952d506b" />
+<img width="500" height="500" alt="Scrambled-State" src="https://github.com/user-attachments/assets/7d1f7f61-4076-47e9-8b87-e621292ee29e" />
+<img width="500" height="500" alt="Solved-State" src="https://github.com/user-attachments/assets/a90f180f-63e1-4149-b7fe-badeead648cd" />
+<img width="500" height="500" alt="Terminal" src="https://github.com/user-attachments/assets/43e80a38-f55e-44c5-b7b4-5698caf0748e" />
 
 
 
