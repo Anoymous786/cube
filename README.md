@@ -50,7 +50,13 @@ It provides a GUI-based 3×3 cube simulator that can **Scramble**, **Solve**, an
 - **Solver**:  
   Uses the Kociemba algorithm to compute a minimal solution, then animates each move with delay.
 
-SAMPLE OUTPUT
+#SAMPLE OUTPUT
+<img width="1444" height="874" alt="state 1" src="https://github.com/user-attachments/assets/dd6761fe-0d5d-444b-aa0a-fa21952d506b" />
+<img width="1224" height="820" alt="Scrambled-State" src="https://github.com/user-attachments/assets/7d1f7f61-4076-47e9-8b87-e621292ee29e" />
+<img width="1257" height="877" alt="Solved-State" src="https://github.com/user-attachments/assets/a90f180f-63e1-4149-b7fe-badeead648cd" />
+<img width="557" height="466" alt="Terminal" src="https://github.com/user-attachments/assets/43e80a38-f55e-44c5-b7b4-5698caf0748e" />
+
+
 
 ---
 
