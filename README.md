@@ -31,7 +31,7 @@ It provides a GUI-based 3×3 cube simulator that can **Scramble**, **Solve**, an
 ## 💡 Technology Stack
 
 - 🐍 Python 3.9+
-- 🎯 [Kociemba Solver](https://github.com/Anoymous786/cube.git)
+- 🎯 [Cube](https://github.com/Anoymous786/cube.git)
 - 🎨 Matplotlib (2D cube visualization)
 - 🖼 Tkinter (GUI + buttons)
 
