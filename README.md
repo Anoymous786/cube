@@ -50,6 +50,8 @@ It provides a GUI-based 3×3 cube simulator that can **Scramble**, **Solve**, an
 - **Solver**:  
   Uses the Kociemba algorithm to compute a minimal solution, then animates each move with delay.
 
+SAMPLE OUTPUT
+
 ---
 
 ## 🛠️ Project Architecture
@@ -88,6 +90,10 @@ python app.py
 Then use the GUI to:
 
 🔀 Scramble — Generates a random 20-move cube
+
+
+
+
 
 🧠 Solve — Calls Kociemba and animates each step
 
